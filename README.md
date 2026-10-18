@@ -12,5 +12,10 @@ Because Trench is a Terminal interface between you - user and your API provider,
 
 ## Progress :-
 ~80% Completed to push till production.
+Last bits left off to fix before its ready.
+
+## Beta :-
+I have tested pre alpha and used the pre-alpha version myself and did not release it due to alot of bugs breaking it constantly.
+Current bugs :- Improper chat area, Lack of models implementations, overall UI/UX, making it easy for users to use.
 
 -R3nz
