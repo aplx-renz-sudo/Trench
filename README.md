@@ -1,2 +1,2 @@
 # Trench
-Trench - your private CLI based coding agent, you bring your own API providers, i provide you the interface
+!Still under construction, T01 (Trench version 01) will be released soon!
