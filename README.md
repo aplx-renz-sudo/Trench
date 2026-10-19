@@ -14,7 +14,7 @@ Works like the Web version of VileDocx but as a terminal one - incase if people 
 Because Trench is a Terminal interface between you - user and your API provider, if you want to just sit back and use your AI to code.
 
 ## Progress :-
-~80% Completed to push till production.
+~85% Completed to push till production.
 Last bits left off to fix before its ready.
 
 ## Beta :-
