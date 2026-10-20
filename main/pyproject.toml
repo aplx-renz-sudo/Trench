@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trench-cli"
+version = "1.0.0"
+description = "Trench: a terminal AI coding agent with provider switching and workspace tools"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "R3nz" }]
+keywords = ["cli", "ai", "agent", "coding-assistant", "llm"]
+dependencies = [
+    "prompt_toolkit>=3.0.0",
+]
+
+[project.scripts]
+trch = "trch_cli:main"
+
+[project.optional-dependencies]
+dev = []
+
+[tool.setuptools]
+py-modules = [
+    "trch",
+    "trch_agent",
+    "trch_cli",
+    "trch_config",
+    "trch_filter",
+    "trch_providers",
+    "trch_session",
+]

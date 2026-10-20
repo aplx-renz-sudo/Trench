@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+"""Trench CLI entrypoint."""
+
+import sys
+from pathlib import Path
+
+_MAIN_DIR = Path(__file__).resolve().parent / "main"
+if str(_MAIN_DIR) not in sys.path:
+    sys.path.insert(0, str(_MAIN_DIR))
+
+from trch_cli import main
+
+if __name__ == "__main__":
+    raise SystemExit(main())

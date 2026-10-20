@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+trch.py
+trch_agent.py
+trch_cli.py
+trch_config.py
+trch_filter.py
+trch_providers.py
+trch_session.py
+trench_cli.egg-info/PKG-INFO
+trench_cli.egg-info/SOURCES.txt
+trench_cli.egg-info/dependency_links.txt
+trench_cli.egg-info/entry_points.txt
+trench_cli.egg-info/requires.txt
+trench_cli.egg-info/top_level.txt

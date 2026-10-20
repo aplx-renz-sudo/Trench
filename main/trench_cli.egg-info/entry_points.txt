@@ -1,0 +1,2 @@
+[console_scripts]
+trch = trch_cli:main
